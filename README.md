@@ -1,18 +1,21 @@
 # Fitness Tracking Website (Pr/2)
 
-## Description
-FitTrackPro Fitness Tracker is a Codegnan MERN Internship Project and as a V-Sem B.E. IT CBIT Mini Project
+## Overview  
+The *Fitness Tracking Website* is a full-stack (MERN) application designed to help users maintain their fitness goals. The platform enables users to log workouts, track past activities, and time workouts directly within the app. It also includes a search feature for exercises based on specific muscle groups, making it a comprehensive fitness companion.  
 
-## Completetion Date
-Completed in Dec 2023. 
+## Completion Date  
+December 2023  
 
-## Introduction 
-A Full Stack (MERN) Fitness website designed to help you maintain your fitness goals. You can log your workouts directly within the app and view your past activities to ensure you’re staying on track. You can also time your workouts from directly within the app! If you do not know where to begin, you can also search a specific muscle group for some exercises to help you get started.
+## Tools and Technologies  
+MERN Stack (MongoDB, Express.js, React, Node.js), Workout Timer, Exercise Search Feature  
 
-## Presentation
-[https://tome.app/adnans-home/mern-stack-codegnan-program-116-132-clq68ixtj0126n661avfn76p7](https://tome.app/adnans-home/mern-stack-codegnan-program-116-132-clq68ixtj0126n661avfn76p7)
+## Keywords  
+Full Stack Development, Fitness Tracking, Workout Log, MERN Stack, Exercise Search, User Interaction, Responsive Design  
 
-## Contributors
-Mohammed Adnan Siddiqui 
+## Presentation  
+For a detailed overview of the project, refer to the presentation:  
+[Fitness Tracking Website Presentation](https://tome.app/adnans-home/mern-stack-codegnan-program-116-132-clq68ixtj0126n661avfn76p7)  
 
-Satvik Taviti
+## Contributors  
+*Mohammed Adnan Siddiqui*  
+*Satvik Taviti*
